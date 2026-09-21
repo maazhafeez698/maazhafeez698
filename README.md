@@ -27,13 +27,11 @@ I'm a Full Stack Developer with a good foundation across the modern web stack, i
 
 <br>
 
-<!-- Skills -->
+<!-- Stack -->
 
-## Skills
+## Stack
 
-<div align="center"><img src="assets/divider.svg" width="94%"/></div>
-
-<div align="center">
+<div align="center"><img src="assets/divider.svg" width="94%"/></div> <div align="center">
 
 <sub>Languages</sub>
 <br>
@@ -52,28 +50,41 @@ I'm a Full Stack Developer with a good foundation across the modern web stack, i
 
 <br><br>
 
-<sub>Backend &amp; Database</sub>
+<sub>Backend</sub>
 <br>
 <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=white" />
+
+<br><br>
+
+<sub>Database & ORM</sub>
+<br>
 <img src="https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Mongoose-1a1a1a?style=flat-square&logo=mongoose&logoColor=880000" />
 <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=DC382D" />
 <img src="https://img.shields.io/badge/Drizzle-1a1a1a?style=flat-square&logo=drizzle&logoColor=C5F74F" />
 
 <br><br>
 
-<sub>Tools &amp; Platforms</sub>
+<sub>Auth & Security</sub>
+<br>
+<img src="https://img.shields.io/badge/JWT-1a1a1a?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Joi-1a1a1a?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-1a1a1a?style=flat-square&logo=zod&logoColor=3E67B1" />
+
+<br><br>
+
+<sub>Tools & Deployment</sub>
 <br>
 <img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=F05032" />
 <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=2496ED" />
 <img src="https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Vercel-1a1a1a?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-1a1a1a?style=flat-square&logo=render&logoColor=white" />
 
-</div>
-
-<br>
-
+</div> <br>
 <!-- Currently -->
 
 ## Currently
@@ -86,7 +97,7 @@ Building production-ready full-stack software, diving deeper into backend engine
 
 <!-- Featured Projects (static table — dynamic repo-card widgets are unreliable) -->
 
-## Featured Projects
+## Featured
 
 <div align="center"><img src="assets/divider.svg" width="94%"/></div>
 
@@ -98,9 +109,9 @@ Building production-ready full-stack software, diving deeper into backend engine
 
 <br>
 
-<!-- GitHub Activity (komarev.com profile-view counter) -->
+<!-- Activity (komarev.com profile-view counter) -->
 
-## GitHub Activity
+## Activity
 
 <div align="center"><img src="assets/divider.svg" width="94%"/></div>
 
